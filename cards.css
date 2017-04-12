@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    overflow: hidden;
+}
+h1 {
+    display: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 100vh;
+    font-family: sans-serif;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+#a {
+    background: crimson;
+}
+#b {
+    background: green;
+}
+#c {
+    background: yellow;
+}
+#d {
+    background: blue;
+}
+#e {
+    background: white;
+}
+#f {
+    background: black;
+}
